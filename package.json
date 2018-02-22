@@ -1,0 +1,21 @@
+{
+  "name": "node-remove-files-directory",
+  "version": "0.0.1",
+  "description": "Easy way to remove file or directory",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pawel112/node-remove-files-directory.git"
+  },
+  "keywords": [
+    "remove",
+    "file",
+    "fs"
+  ],
+  "author": "pawel112",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "rimraf": "^2.6.2"
+  }
+}
